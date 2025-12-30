@@ -12,6 +12,18 @@ __pycache__/
 *.env
 
 # =====================
+# Virtual environments
+# =====================
+venv/
+
+# =====================
+# Build artifacts
+# =====================
+dist/
+build/
+*.egg-info/
+
+# =====================
 # VS Code
 # =====================
 .vscode/
@@ -22,7 +34,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # =====================
-# Streamlit 
+# Streamlit
 # =====================
 .streamlit/secrets.toml
 
