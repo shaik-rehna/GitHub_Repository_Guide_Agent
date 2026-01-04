@@ -1,7 +1,7 @@
 # 📘 GitHub Repository Guide Agent
 
 * Winter in Data Science(WiDS), IIT Bombay, 2025
-An **agentic AI-powered tool** that analyzes a public GitHub repository and generates a **clear, guided walkthrough** to help understand the repository.
+* An **agentic AI-powered tool** that analyzes a public GitHub repository and generates a **clear, guided walkthrough** to help understand the repository.
 
 ---
 
@@ -71,6 +71,7 @@ github-repo-guide-agent/
 ├── .env.example
 ├── .gitignore
 └── README.md
+
 
 
 
