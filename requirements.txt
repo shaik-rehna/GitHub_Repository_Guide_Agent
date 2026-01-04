@@ -1,0 +1,11 @@
+# Tested with Python 3.12
+
+# GitHub API
+PyGithub==2.8.1
+
+# LLM (Gemini)
+google-genai==1.56.0
+
+# Web UI
+streamlit==1.52.2
+
