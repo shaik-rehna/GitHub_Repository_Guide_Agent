@@ -68,7 +68,6 @@ github-repo-guide-agent/
 │   └── llm_repo_analysis.py
 ├── requirements.txt
 ├── environment.yml
-├── .env.example
 ├── .gitignore
 └── README.md
 
@@ -150,6 +149,7 @@ streamlit run app/streamlit_app.py
 * **Gemini LLM** – Intelligent summarization
 * **Streamlit** – Web interface
 * **Prompt Engineering** – Structured LLM outputs
+
 
 
 
