@@ -54,23 +54,7 @@ This project solves that problem by combining:
 5. **UI Rendering**  
    Results are displayed in a clean, readable format via Streamlit.
 
----
 
-## Project Structure
-
-```
-
-github-repo-guide-agent/
-├── app/
-│   └── streamlit_app.py
-├── src/
-│   ├── fetch_repo_readme.py
-│   └── llm_repo_analysis.py
-├── requirements.txt
-├── environment.yml
-├── .env.example
-├── .gitignore
-└── README.md
 
 
 
