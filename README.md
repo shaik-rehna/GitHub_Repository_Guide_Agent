@@ -4,6 +4,10 @@
 * An **agentic AI-powered tool** that analyzes a public GitHub repository and generates a **clear, guided walkthrough** to help understand the repository.
 
 ---
+![UI](outputs/UI_1.png)
+![UI](outputs/UI_2.png)
+![UI](outputs/UI_3.png)
+
 
 ##  Overview
 
@@ -149,6 +153,7 @@ streamlit run app/streamlit_app.py
 * **Gemini LLM** – Intelligent summarization
 * **Streamlit** – Web interface
 * **Prompt Engineering** – Structured LLM outputs
+
 
 
 
