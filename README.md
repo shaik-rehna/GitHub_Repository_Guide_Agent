@@ -6,7 +6,7 @@
 ---
 ![UI](outputs/UI_1.png)
 ![UI](outputs/UI_2.png)
-![UI](outputs/UI_3.png)
+![UI](outputs/UI_5.png)
 
 
 ##  Overview
@@ -153,6 +153,7 @@ streamlit run app/streamlit_app.py
 * **Gemini LLM** – Intelligent summarization
 * **Streamlit** – Web interface
 * **Prompt Engineering** – Structured LLM outputs
+
 
 
 
