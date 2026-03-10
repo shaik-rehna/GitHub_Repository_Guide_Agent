@@ -150,9 +150,10 @@ streamlit run app/streamlit_app.py
 
 * **Python 3.12**
 * **PyGithub** – GitHub API access
-* **Gemini LLM** – Intelligent summarization
+* **Gemini-3-flash (LLM)** – Intelligent summarization
 * **Streamlit** – Web interface
-* **Prompt Engineering** – Structured LLM outputs
+
+
 
 
 
